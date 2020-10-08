@@ -12,3 +12,5 @@ How to use:
 Create a shortcut on your desktop for x64 Dota
 Add -console to the shortcut (e.g., "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\bin\win64\dota2.exe" -console)
 Start game and inject DLL
+
+![alt text](https://github.com/Werwo1f/dota2_hack/blob/main/20200925192810_1.jpg "Screenshot of the program")​
